@@ -1,7 +1,7 @@
 # Reflection
 
-Student Name:  name
-Sudent Email:  email
+Student Name:  Jackson Rosenthal 
+Sudent Email:  jrosen27@syr.edu
 
 ## Instructions
 
@@ -23,3 +23,5 @@ Examples:
 **Best Reflection** "I learned when to use while vs for loops. While loops are for sentiel-controlled values (waiting for a condition to occur), vs for loops are for iterating over collections of fixed values."
 
 `--- Reflection Below This Line ---`
+
+For this assignment, we were tasked wtih creating a pivot table for the cost of traveling to a given location, then apply that function to other functions we needed to create. For me personally, I somewhat struggled with the function creations, because of needing to see which column I needed to call, what the aggregate function needed to be, and applying the newly created function inside other in progress functions. Creating the map for me, however, was not too difficult as the required code is minimal and I had done that previously in IST256, though making sure each part of the map was properly done was still a little difficult. But we were esseentially given all the data so that made it easier to get done. 
